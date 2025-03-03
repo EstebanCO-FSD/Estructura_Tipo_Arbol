@@ -1,8 +1,6 @@
-# Nodo para estructura tipo arbol
+# Nodo para estructura tipo árbol
 
 class Node:
-
-    def __init__(self, data):
-        self.data = data
-        self.left = None
-        self.right = None
+    data = None
+    left = None
+    right = None
