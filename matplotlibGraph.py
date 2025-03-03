@@ -1,7 +1,6 @@
 # Gráfico de la estructura tipo árbol
 
 import matplotlib.pyplot as plt
-from binaryTree import BinaryTree
 
 # Función para graficar el árbol
 def plot_tree(tree):
